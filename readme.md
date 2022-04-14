@@ -13,4 +13,4 @@ Then just press the button.
 Project is created with:
 * JS
 ## Setup
-To run this project, simply go [here](https://czarecki.github.io/random-code-generator).
+To run this project, simply go [here](https://czarecki.github.io/random-codes-generator).
