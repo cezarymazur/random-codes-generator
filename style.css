@@ -1,0 +1,30 @@
+html {
+    font-family: arial;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+button {
+    display: block;
+    margin: 15px 0px;
+    border: 2px solid white;
+    background-color: black;
+    color: white;
+    padding: 20px 50px;
+    font-size: 22px;
+    cursor: pointer;
+    transition: 0.4s ease-in-out;
+}
+
+.active {
+    background-color: white;
+    color: black;
+}
+
+div {
+    margin: 10px;
+    font-size: 12px;
+}
