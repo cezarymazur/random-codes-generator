@@ -1,4 +1,4 @@
-## Random Code Generator
+## Random Codes Generator
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
